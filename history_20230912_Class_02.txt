@@ -1,0 +1,116 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  who am i
+    4  whoami
+    5  who
+    6  pwd
+    7  ls
+    8  man ls
+    9  ls -l
+   10  ls -l -t
+   11  ls -lt
+   12  ls -a
+   13  ls -la
+   14  ls desktop/
+   15  ls Desktop
+   16  ls Desktop/
+   17  ls -la Documents/
+   18  ls /home
+   19  pwd
+   20  ls
+   21  tree
+   22  cd Music/
+   23  ls -la
+   24  cd .
+   25  cd ..
+   26  pwd
+   27  cd ..
+   28  cd sc/
+   29  cd ..
+   30  ls
+   31  ls -la
+   32  pwd
+   33  cd .
+   34  cd ..
+   35  pwd
+   36  ls
+   37  cd root/
+   38  cd roott
+   39  cdd root
+   40  cd home/
+   41  cd ..
+   42  cd ./home/
+   43  ls
+   44  pwd
+   45  cd user
+   46  pwd
+   47  cd /
+   48  pwd
+   49  cd /home/user/
+   50  cd /
+   51  cd ~
+   52  cd ~/Documents
+   53  cd ..
+   54  cd ~
+   55  pwd
+   56  cd
+   57  ls
+   58  ls -lt
+   59  mkdir ABC
+   60  ls -lt
+   61  ls -lt ABC
+   62  ls -lt ABC/
+   63  ls -lta ABC/
+   64  ls -lta
+   65  pwd
+   66  ls -lt
+   67  rmdir ABC
+   68  ls -lt
+   69  cd/
+   70  cd /
+   71  cd
+   72  pwd
+   73  touch ab.txt
+   74  ls -lt
+   75  echo la la la
+   76  echo 123 > text_1.txt
+   77  ls -lt
+   78  cat text_1.txt 
+   79  hexdump 
+   80  echo 6789 > text_1.txt
+   81  hexdump 
+   82  echo 12345 > text_1.txt
+   83  echo 6789 >> text_1.txt
+   84  ls - lt text_1.txt 
+   85  ls -lt text_1.txt 
+   86  hexdump -C text_1.txt 
+   87  cat text_1.txt 
+   88  man echo 
+   89  echo -e "1234/n6795"
+   90  echo -e "1234\n6795"
+   91  echo -e "1234\n\t6795"
+   92  echo -e "12345\r6789"
+   93  echo -e "12345\r6789" > text_2.txt 
+   94  ls text_2.txt 
+   95  ls -l text_2.txt 
+   96  hexdump -c text_2.txt 
+   97  hexdump -C text_2.txt 
+   98  ls -lt
+   99  mkdir cde
+  100  cp text_1.txt cde/
+  101  pwd
+  102  ls -t cde/
+  103  ls -lt cde/
+  104  pwd
+  105  mv cde/text_1.txt  cde/text_3.txt 
+  106  ls -lt cde/
+  107  ls -lt
+  108  mv ab.txt  abc.dat
+  109  ls -lt
+  110  rm text_*.txt
+  111  ls 0lt
+  112  ls -lt
+  113  rm a*c.d*
+  114  ls -lt
+  115  history
+  116  history > history_20230912_Class_02.txt
