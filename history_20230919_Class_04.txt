@@ -1,0 +1,67 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  whoami
+    4  who
+    5  pwd
+    6  ls
+    7  ls -lt
+    8  gitversion
+    9  git --version 
+   10  man git
+   11  git clone https://github.com/GustavsSinats/RTR105
+   12  ls -lt
+   13  git clone https://github.com/GustavsSinats/RTR105 RTR 2023_105_V01
+   14  git clone https://github.com/GustavsSinats/RTR105 RTR1052
+   15  ls -lt
+   16  ls -lt *RTR
+   17  ls -lt | grep RTR105
+   18  rmdir RTR1052
+   19  man rmdir
+   20  rm RTR1052
+   21  man rm
+   22  rm -r RTR1052
+   23  rm man
+   24  man rm
+   25  rm -rf RTR1052
+   26  ls -lt
+   27  pwd
+   28  cd RTR105/
+   29  pwd
+   30  ls -lt
+   31  ls -la
+   32  cd .git/
+   33  ls -l
+   34  cat config 
+   35  ls -lta
+   36  cat index 
+   37  hex dump -C config 
+   38  hexdump -C config 
+   39  hexdump -C index 
+   40  cat index
+   41  hexdump -C config 
+   42  cd ..
+   43  history 
+   44  history > history_20230919_Class_04.txt 
+   45  ls -lt
+   46  cat history_2023091_Class_04.txt
+   47  cat history_20230919_Class_04.txt 
+   48  nano git-upload
+   49  pwd
+   50  ls -lt
+   51  cat git-upload 
+   52  whereis pwd
+   53  echo $PATH
+   54  /home/user/RTR105/git-upload
+   55  ls -lt
+   56  man chmod
+   57  nano
+   58  chmod 754 git-upload 
+   59  ls -lt
+   60  git-upload
+   61  echo $PATH
+   62  PATH=$PATH:~/RTR105/
+   63  echo $PATH 
+   64  git-upload
+   65  echo $PATH
+   66  git-upload
+   67  history  > history_20230919_Class_04.txt 

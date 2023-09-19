@@ -1,0 +1,13 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  echo $o
+    4  echo $O
+    5  echo $0
+    6  ls -l ../
+    7  ls -lt
+    8  cd Documents/
+    9  exit
+   10  PATH=$PATH:~/RTR105/
+   11  $PATH
+   12  git-upload
+   13  history > history_20230919_Class_04a.txt 

@@ -1,61 +1,55 @@
-# RTR105_2023_foreign
-Electronic notes of computer studies(Basic course) subject
-## First lesson
- whoami  
- pwd  
- ls  
- history  
- man pwd  
- pwd - L  
- uname --all  
-  
-## Second lesson
-Ctrl + Alt + T   - new terminal window
-Ctrl + Shift + T - new terminal in window
-Ctrl + L         - "clear" screen
-btn UP, btn DOWN - previous executed commadns
-history          - list with used commands
+<p align="center">
+  RTR105
 
-first symbols of command name + Tab (one more Tab) - get command full name
-or list commands with named first symbols
+  <p align="center">
+Studiju kursa Datormācība klade
+<p align="center">
 
-man command_name - information about how command works
+Šī lapa tika uzprgrammēta izmantojot [Github](https://github.com/)
 
-command_name -keyletter1 -keyletter2
-command_name -keyletter1 --keyword2
-command_name -keyletter1keyletter2
+Github mājaslapā pieejamas dažādas pamācības kā formatēt tekstu[^1].
+[^1]: Manuprāt diezgan pārskatāma, taču paiet laiks, lai pie tās pierastu
 
-three important "questions":
-who? where? what?
-whoami - user name
-pwd    - current directory - address (absolute)
-         absolute address starts with "/" root
-         relative address of user "home" directory starts with "~"
-         relative address of current directory starts with "."
-         relative address of parent directory starts with ".."
+![b_RTU_2022 2](https://github.com/GustavsSinats/RTR105/assets/144107004/b840a568-77c7-48d7-a51e-546dba7a23fd)
 
-ls     - list of files and directories
-cd     - change directory
-tree   - observe tree of file system
 
-## My_first_shell_script.sh!/bin/bash
-echo "--whoami result: ---"  
-whoami  
-echo "--- pwd result: ----"  
-pwd  
-echo "--- ls result: ----"  
-ls  
-echo "--- ls result after a.text creation: ----"  
-echo "12345" > a.txt  
-ls  
-echo "--- ls result after copy of a.text: ----"  
-cp a.txt b.txt  
-ls  
-echo "--- ls result after ABC creation ---"   
-mkdir ABC  
-ls   
-echo "---ls result after  move of b.txt and aa.txt deletion ---"  
-mv b,txt ABC/  
-rm a.txt  
+- [X] 1. Nodarbības "Atziņas"
 
+### Manas Linux pirmās komandas:  
++ **uname**  
++ **unname**  
++ **unname -a**  
++ **man unname**  
++ **history**
++ **pwd**
+
+- [X] 2. Nodarbība darbības ar Linux
+
+### Sākuma komandas:
+1. whoami (kas es esmu)  
+2. pwd (kur es atrodos)  
+3. man (instrukcija)  
+4. history (visu darbību vēsture)  
+5. ls -l (kas man ir pieejams)  
+6. ls -lt (kas man ir pieejams, sakārtots pēc laika)  
+7. cd (atgriezties home/user)  
+8. cd ..(atpakaļ)  
+9. ~ (atgriezties home)
+10. Ctrl C (atgriezties uz pozīciju, kurā var rakstīt komandas)
+### Darbības ar mapītēm un tekstu:
++ mkdir (izveidot jaunu mapīti)  
++ rmdir (dzēst mapīti)  
++ mv (move)  
++ rm a*c.d* (izdzēst visas mapītes, kuras sākas ar a, beidzas ar c un aiz punkta sākas ar d)
++ cp (copy) 
++ echo (atkārtot uzrakstīto)  
++ hexdump -C (parāda no kā sastāv uzraksītais)  
++ history > history_20230912_Class_02.txt (kopēt vēsturi un izveidot dokumentu ar tādu nosaukumu)
++ lai izveidotu tekstu izmanto echo [teksts] > saglabātās apakšmapītes nosaukums (kursors tiks pārbīdīts uz sākumu)
++ echo > esošajā tekstā pārbīdīs kursoru uz sākumu un esošajam tekstam rakstīsies pāri
++ lai papildinātu jau uzrakstītu tekstu izmanto >> (uzrakstītais tiks attēlots jaunā rindā)
++ -e (atslēga lai izmantotu \n\t, kas tekstu 
+
+   
+   
 
