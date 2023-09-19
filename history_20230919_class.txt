@@ -1,0 +1,112 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  echo $o
+    4  echo $O
+    5  echo $0
+    6  ls -l ../
+    7  ls -lt
+    8  cd Documents/
+    9  exit
+   10  cd RTR105/
+   11  whereis bash
+   12  pwd
+   13  where is pwd
+   14  whereis pwd
+   15  /bin/pwd 
+   16  ls -l /bin/pwd
+   17  cat /bin/pwd
+   18  whereis bash
+   19  whereis python
+   20  whoami
+   21  who
+   22  pwd
+   23  ls
+   24  ls -lt
+   25  gitversion
+   26  git --version 
+   27  man git
+   28  git clone https://github.com/GustavsSinats/RTR105
+   29  ls -lt
+   30  git clone https://github.com/GustavsSinats/RTR105 RTR 2023_105_V01
+   31  git clone https://github.com/GustavsSinats/RTR105 RTR1052
+   32  ls -lt
+   33  ls -lt *RTR
+   34  ls -lt | grep RTR105
+   35  rmdir RTR1052
+   36  man rmdir
+   37  rm RTR1052
+   38  man rm
+   39  rm -r RTR1052
+   40  rm man
+   41  man rm
+   42  rm -rf RTR1052
+   43  ls -lt
+   44  pwd
+   45  cd RTR105/
+   46  pwd
+   47  ls -lt
+   48  ls -la
+   49  cd .git/
+   50  ls -l
+   51  cat config 
+   52  ls -lta
+   53  cat index 
+   54  hex dump -C config 
+   55  hexdump -C config 
+   56  hexdump -C index 
+   57  cat index
+   58  hexdump -C config 
+   59  cd ..
+   60  history 
+   61  history > history_20230919_Class_04.txt 
+   62  ls -lt
+   63  cat history_2023091_Class_04.txt
+   64  cat history_20230919_Class_04.txt 
+   65  nano git-upload
+   66  pwd
+   67  ls -lt
+   68  cat git-upload 
+   69  whereis pwd
+   70  echo $PATH
+   71  /home/user/RTR105/git-upload
+   72  ls -lt
+   73  man chmod
+   74  nano
+   75  chmod 754 git-upload 
+   76  ls -lt
+   77  git-upload
+   78  echo $PATH
+   79  PATH=$PATH:~/RTR105/
+   80  echo $PATH 
+   81  git-upload
+   82  echo $PATH
+   83  git-upload
+   84  history  > history_20230919_Class_04.txt 
+   85  cat history_20230919_Class_04.txt 
+   86  PATH=$PATH:~/RTR105/
+   87  $PATH
+   88  git-upload
+   89  history > history_20230919_Class_04a.txt 
+   90  nano git-upload 
+   91  whoami
+   92  pwd
+   93  ls -lt
+   94  git --version
+   95  whereis git
+   96  ls -lt /usr/bin/git
+   97  git clone
+   98  git clone https://github.com/Yohan0604/RTR105_2023_foreign
+   99  ls -lt
+  100  https://github.com/Yohan0604/RTR105_2023_foreign RTR105
+  101  man rmdir
+  102  man rm
+  103  ls -lt
+  104  cd RTR105_2023_foreign
+  105  ls -la
+  106  cd .git
+  107  ls -lta
+  108  ls -lt
+  109  cd ..
+  110  ks -lta
+  111  ls -lta
+  112  history > history_20230919_class.txt
