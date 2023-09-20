@@ -1,0 +1,54 @@
+    1  ls
+    2  sudo ./VBoxLinuxAdditions.run  
+    3  ls
+    4  sudo ./VBoxLinuxAdditions.run  
+    5  ls
+    6  pwd
+    7  mane
+    8  clear
+    9  sl
+   10  ls
+   11  pwd
+   12  sudo
+   13  cd
+   14  cd home
+   15  cd Desktop
+   16  tty 
+   17  dfdfdfdfnd\
+   18  clear
+   19  sudo ./  VBoxLinuxAdditions.run
+   20  sudo ./VBoxLinuxAdditions.run
+   21  exit
+   22  firefox
+   23  sudo
+   24  pwd
+   25  cd yohan
+   26  ls
+   27  cd Music
+   28  cd ..
+   29  cd-
+   30  cd -
+   31  cd ..
+   32  ls -a
+   33  ls -lh
+   34  cat >Yohan.txt
+   35  ls
+   36  cat Yohan.txt
+   37  cat Pictures
+   38  cd Music
+   39  cat Yohan111.txt
+   40  cat >Yohan123.txt
+   41  cd Yohan123.txt
+   42  cat Yohan123.txt
+   43  history >history_20230921_class_5.txt
+   44  cd ..
+   45  git upload https://github.com/Yohan0604/RTR105_2023_foreign/
+   46  git upload https://github.com/Yohan0604/RTR105_2023_foreign
+   47  git clone https://github.com/Yohan0604/RTR105_2023_foreign/
+   48  git clone https://github.com/Yohan0604/RTR105_2023_foreign
+   49  sudo apt install git
+   50  git clone https://github.com/Yohan0604/RTR105_2023_foreign/
+   51  cd RTR105_2023_foreign/
+   52  pwd
+   53  ls 
+   54  history >history_20230921_myself.txt
