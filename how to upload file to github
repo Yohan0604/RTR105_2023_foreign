@@ -1,0 +1,32 @@
+git clone https://github.com/user/RTR105 (clone Your repository locally)
+
+  cd RTR105 (enter repository directory)
+
+  pwd (You shoud be inside repository direcory)
+
+  ls -lta (check is there the hidden .git directory)
+
+  history > history_yyyymmdd_Class_cc.txt
+
+  nano git-upload (write shell script with actions necesary for upload)
+ #!/bin/bash
+ git add .
+ git config --global user.name some_user
+ git config --global user.email my_email@rtu.lv
+ git commit -m "Class_04a"
+ git pull
+ git push origin main
+
+  ls -lt (observe, that You have this new file git-upload)
+
+  chmod 754 git-upload (change permissions for this script file; read man chmod)
+       7 -> 111 -> rwx
+       5 -> 101 -> r-x
+       4 -> 100 -> r-- 
+
+  ls -lt (observe, that permissions of git-upload are changed)
+
+  PATH=$PATH:~/RTR105/ (append system paths with directory, where git-upload file is)
+ 
+  git-upload (execute Your new command, username - username of GitHub, password - token from GitHub)
+             (if every is OK, You will see main -> main and new commit in GitHub online)
