@@ -1,0 +1,70 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  sudo 
+    4  clear
+    5  pwd
+    6  cd
+    7  cd photos
+    8  cd Documents
+    9  cd ~
+   10  pwd
+   11  cd ..
+   12  cd-
+   13  cd -
+   14  ls
+   15  ls -R
+   16  ls -a
+   17  ls -lh
+   18  cat
+   19  cat >Desctop.text
+   20  cat Desktop.txt
+   21  ls
+   22  cat Desktop.txt
+   23  cat Desktop
+   24  cat Desctop.txt
+   25  cat Desctop.text
+   26  cp Desctop.text /home/user/Desktop
+   27  ls
+   28  ls Desktop
+   29  cat Desctop.text
+   30  cp -R/home/username/Documents/home/username/Documents
+   31  mv Desctop.text/home/user/Downloads
+   32  ls
+   33  ls -lt
+   34  mv ddd.txt /home/user/Downloads
+   35  ls Downloads
+   36  cat ddd.txt
+   37  cd Downloads
+   38  ls
+   39  cat ddd.txt
+   40  cd .
+   41  cd..
+   42  cd ..
+   43  cd Downloads
+   44  ls
+   45  mv old_ddd.txt new_yohan.txt
+   46  cat ddd.txt
+   47  cd ..
+   48  mkdir Downloads
+   49  mkdir Rtu
+   50  ls
+   51  mkdir RTU/studies
+   52  mkdir Rtu/studies
+   53  ls
+   54  ls Rtu
+   55  cat studies
+   56  rm -f studies
+   57  ls
+   58  ls Rtu
+   59  rm studies
+   60  cd Rtu
+   61  rm studies
+   62  cd ..
+   63  touch
+   64  history
+   65  cd RTR105_2023_foreign/
+   66  history > history_202309020
+   67  history > history_20230920 .txt
+   68  history > history_20230920_txt
+   69  nano git upload
+   70  history > history_20230920_class_5.txt

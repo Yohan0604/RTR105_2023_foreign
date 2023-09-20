@@ -1,0 +1,13 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/Yohan0604/RTR105_2023_foreign
+    4  ls -lt
+    5  cd 
+    6  cd RTR105_2023_foreign/
+    7  pwd
+    8  ls -lt
+    9  history > history_20230912_class.txt
+   10  /git-upload
+   11  ./git-upload 
+   12  nano git-upload 
+   13  history > history_20230912_class.txt
