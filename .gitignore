@@ -1,0 +1,8 @@
+# ignore all i files
+*.i
+# ignore all s files
+*.s
+# ignore all o files
+*.o
+# ignore all out files
+*.out
