@@ -1,0 +1,46 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/Yohan0604/RTR105_2023_foreign
+    4  ls -lt
+    5  cd RTR105_2023_foreign/
+    6  mkdir class_08
+    7  cd class_08
+    8  nano variables.c
+    9  ls -lt
+   10  gcc variables.c 
+   11  nano variables.c 
+   12  ls -lt
+   13  gcc variables.c 
+   14  ls -lt
+   15  ./a.out
+   16  nano variables.c 
+   17  ./a.out
+   18  nano variables.c 
+   19  ./a.out
+   20  nano variables.c 
+   21  ./a,out
+   22  ./a.out
+   23  gcc variables.c 
+   24  ls -lt
+   25  ./a.out
+   26  nano variables.c 
+   27  gcc variables.c 
+   28  ./a.out
+   29  nano variables.c 
+   30  gcc variables.c 
+   31  nano variables.c 
+   32  gcc variables.c 
+   33  nan variables.c 
+   34  nano variables.c 
+   35  gcc variables.c 
+   36  nan variables.c 
+   37  nano variables.c 
+   38  gcc variables.c 
+   39  nano variables.c 
+   40  gcc variables.c 
+   41  ./a.out
+   42  cd ..
+   43  ls -lt
+   44  nano git-upload
+   45  ./git-upload
+   46  history >history_202310_04.txt
