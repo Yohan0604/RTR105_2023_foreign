@@ -1,0 +1,10 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  pwd
+    4  ls -lt
+    5  git clone https://github.com/Yohan0604/RTR105_2023_foreign
+    6  ls -lt
+    7  cd RTR105_2023_foreign/
+    8  ls -lt
+    9  history
+   10  history >history888_88.txt
