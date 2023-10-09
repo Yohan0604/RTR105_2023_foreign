@@ -1,0 +1,299 @@
+    1  ls
+    2  sudo ./VBoxLinuxAdditions.run  
+    3  ls
+    4  sudo ./VBoxLinuxAdditions.run  
+    5  ls
+    6  pwd
+    7  mane
+    8  clear
+    9  sl
+   10  ls
+   11  pwd
+   12  sudo
+   13  cd
+   14  cd home
+   15  cd Desktop
+   16  tty 
+   17  dfdfdfdfnd\
+   18  clear
+   19  sudo ./  VBoxLinuxAdditions.run
+   20  sudo ./VBoxLinuxAdditions.run
+   21  exit
+   22  firefox
+   23  sudo
+   24  pwd
+   25  cd yohan
+   26  ls
+   27  cd Music
+   28  cd ..
+   29  cd-
+   30  cd -
+   31  cd ..
+   32  ls -a
+   33  ls -lh
+   34  cat >Yohan.txt
+   35  ls
+   36  cat Yohan.txt
+   37  cat Pictures
+   38  cd Music
+   39  cat Yohan111.txt
+   40  cat >Yohan123.txt
+   41  cd Yohan123.txt
+   42  cat Yohan123.txt
+   43  history >history_20230921_class_5.txt
+   44  cd ..
+   45  git upload https://github.com/Yohan0604/RTR105_2023_foreign/
+   46  git upload https://github.com/Yohan0604/RTR105_2023_foreign
+   47  git clone https://github.com/Yohan0604/RTR105_2023_foreign/
+   48  git clone https://github.com/Yohan0604/RTR105_2023_foreign
+   49  sudo apt install git
+   50  git clone https://github.com/Yohan0604/RTR105_2023_foreign/
+   51  cd RTR105_2023_foreign/
+   52  pwd
+   53  ls 
+   54  history >history_20230921_myself.txt
+   55  nano git-upload
+   56  ls -lt
+   57  chmod 754 git-upload
+   58  ls -lt
+   59  PATH=$PATH:~/RTR105_2023_foreign/
+   60  git upload
+   61  nano git-upload
+   62  sudo get youtube
+   63  sudo gt Yotube
+   64  sudo
+   65  sudo download firefox
+   66  kkk
+   67  pwd
+   68  ls
+   69  cat picyre
+   70  cat Templates
+   71  https://github.com/Yohan0604/RTR105_2023_foreign
+   72  git clone https://github.com/Yohan0604/RTR105_2023_foreign
+   73  cd RTR105_2023_foreign/
+   74  pwd
+   75  ls -lta
+   76  history >history_20230925_class_cc.txt
+   77  nano git-upload
+   78  ls -lt
+   79  chmod 754 git-upload
+   80  ls -lt
+   81  PATH=$PATH:~RTR105_2023_foreign
+   82  git-upload
+   83  PATH=$PATH:~RTR105_2023_foreign/
+   84  git-upload
+   85  PATH=$PATH:~/RTR105_2023_foreign/
+   86  git-upload
+   87  PATH=$PATH:~/RTR105_2023_foreign/
+   88  git-upload
+   89  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
+   90  PATH=$PATH:~/RTR105_2023_foreign/
+   91  git-upload
+   92  git clone https://github.com/Yohan0604/RTR105_2023_foreign
+   93  cd RTR105_2023_foreign/
+   94  ls
+   95  cd ..
+   96  pwd
+   97  l -lta
+   98  nano git upload
+   99  nano git-upload
+  100  PATH=$PATH:~/RTR105_2023_foreign/
+  101  git-upload
+  102  pwd
+  103  lt
+  104  ls
+  105  git clone https://github.com/Yohan0604/RTR105_2023_foreign
+  106  pwd
+  107  ls
+  108  cd Pictures/
+  109  ls -a
+  110  ls -lh
+  111  ls -R
+  112  whoiam
+  113  whoami
+  114  sudo apt instrall gcc
+  115  sudo instl apt gcc
+  116  sudo apt instl gcc
+  117  sudo apt install GCC
+  118  gcc
+  119  sudo apt install GCC
+  120  sudo apt install gcc
+  121  pwd
+  122  ls -lt
+  123  mkdir class 6
+  124  ls -lt
+  125  dlt 6
+  126  sudo apt install <deb name>
+  127  rm 6
+  128  rm-r-6
+  129  rm -r-6
+  130  rm --help
+  131  rm -r
+  132  rm -r-6
+  133  rm -d
+  134  rm -d-6
+  135  rm -r--6
+  136  rm -d--6
+  137  rm --d-6
+  138  rm -r-- -6
+  139  rm -d-- -6
+  140  -d -6
+  141  -d --6
+  142  exit
+  143  pwd
+  144  ls -lt
+  145  git clone https://github.com/Yohan0604/RTR105_2023_foreign 
+  146  cd RTR105_2023_foreign/
+  147  pwd
+  148  ls -lt
+  149  mkdir class_6
+  150  ls -lt
+  151  cd class_6/
+  152  pwd
+  153  nano first.c
+  154  ls -lt
+  155  gcc first.c
+  156  ls -lt
+  157  ls -lta
+  158  cat a.out
+  159  pwd
+  160  ls -lt
+  161  cd RTR105_2023_foreign/
+  162  ls -lt
+  163  nano git-upload
+  164  ./git-upload
+  165  history
+  166  history >history_20231004.txt
+  167  ls -lt
+  168  nano git-upload
+  169  ./git-upload
+  170  ls -lt
+  171  ./git-upload
+  172  nano git-upload
+  173  nano git-upload 
+  174  ./git-upload
+  175  xcode-select --install
+  176  pwd
+  177  ls -lt
+  178  cd RTR105_2023_foreign/
+  179  ls -lt
+  180  chmod 754 git-upload
+  181  ls -lt
+  182  ./git-upload
+  183  PATH=$PATH:~/git-upload
+  184  ls -lt
+  185  git --help
+  186  ./git-upload
+  187  ../git-upload
+  188  /git-upload
+  189  ./git-upload
+  190  git pull
+  191  git clone https://github.com/Yohan0604/RTR105_2023_foreign
+  192  pwd
+  193  ls -lt
+  194  cd RTR105_2023_foreign/
+  195  nano first.c
+  196  ls -lt
+  197  ls -lta
+  198  gcc first.c
+  199  ls -lt
+  200  ./a.out
+  201  ls -lt
+  202  ./a.out
+  203  echo $?
+  204  nano first.c
+  205  cat first.c
+  206  man gcc
+  207  gcc first.c -o first.out
+  208  ls -lt
+  209  history
+  210  nano git-upload
+  211  history >history_000000_k.txt
+  212  ./git-upload
+  213  ./RTR105_2023_foreign/
+  214  ./git-upload
+  215  git clone https://github.com/Yohan0604/RTR105_2023_foreign
+  216  ..cd
+  217  cd ..
+  218  cd RTR105_2023_foreign/
+  219  ls -lt
+  220  rm yohan_20230926.txt 
+  221  ls -lt
+  222  rm history_000000_k.txt 
+  223  ls -lt
+  224  rm history_20230921_myself.txt 
+  225  ls -lt
+  226  history >history_20231004.txt
+  227  ls -lt
+  228  nano git-uploa
+  229  nano git-upload 
+  230  ./git-upload
+  231  your next pull
+  232  git config pull.rebase false
+  233  ls -lt
+  234  ./git-upload
+  235  clear
+  236  exit
+  237  ls -lt
+  238  cd RTR105_2023_foreign/
+  239  ls -lt
+  240  history >history_8888_l.txt
+  241  nano git-upload
+  242  ./git-upload
+  243  pwd
+  244  ls -lt
+  245  RTR105_2023_foreign/
+  246  cd RTR105_2023_foreign/
+  247  ls -lt
+  248  history >history20231009.txt
+  249  ls -lt
+  250  nano git-upload
+  251  ./git-upload
+  252  nano my first-c.c
+  253  nano first.c
+  254  dlt RTR105_2023_foreign/
+  255  ./
+  256  ./~
+  257  .. RTR105_2023_foreign/
+  258  ./yohan
+  259  cd yohan
+  260  rm RTR105_2023_foreign/
+  261  rm help
+  262  help
+  263  rm-r-RTR
+  264  cd ..
+  265  exit
+  266  pwd
+  267  ls -lt
+  268  rm-r-RTRr105_2023_foreign
+  269  -r-RTRr105_2023_foreign
+  270  rm RTR105_2023_foreign/
+  271  rm-r RTR105_2023_foreign/
+  272  rm-r RTR105_2023_foreign
+  273  rm-r- RTR105_2023_foreign
+  274  rm-r-RTR105_2023_foreign
+  275  rm-r-RTR105_2023_foreign/
+  276  ls-lt
+  277  ls -lt
+  278  rm -r RTR105_2023_foreign/
+  279  git clone https://github.com/Yohan0604/RTR105_2023_foreign
+  280  rm -r RTR105_2023_foreign/
+  281  pwd
+  282  ls -lt
+  283  rm -f RTR105_2023_foreign/
+  284  cd RTR105_2023_foreign/
+  285  rm -r RTR105_2023_foreign/
+  286  git clone https://github.com/Yohan0604/RTR105_2023_foreign
+  287  ls -lt
+  288  pwd
+  289  history
+  290  history >history_2023_10_09.txt
+  291  ls -lt
+  292  rm history_2023_10_09.txt 
+  293  ls -lt
+  294  rm Yohan.txt 
+  295  ls -lt
+  296  cd RTR105_2023_foreign/
+  297  ls -lt
+  298  history
+  299  history >history_2023_10_09.txt
