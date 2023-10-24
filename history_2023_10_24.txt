@@ -1,0 +1,180 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git-clone https://github.com/GustavsSinats/RTR105_2023_01
+    4  gitclone https://github.com/GustavsSinats/RTR105_2023_01
+    5  git-clone https://github.com/GustavsSinats/RTR105_2023_01
+    6  git clone https://github.com/GustavsSinats/RTR105_2023_01
+    7  ls
+    8  cd RTR105_2023_01/
+    9  mkdir Class_11
+   10  cd Class_11
+   11  funkcija_no_ārēja_faila.c
+   12  nano funkcija_no_ārēja_faila.c
+   13  nano foo.h
+   14  nano foo.c
+   15  nano main.c
+   16  $ gcc -Wall -c foo.c
+   17  gcc Wall -c foo.c
+   18  gcc -Wall -c foo.c
+   19  gss _Wall -c main.c
+   20  gss -Wall -c main.c
+   21  gcc -Wall -c main.c
+   22  gcc -o testprogram foo.o main.o
+   23  ./testprogram 
+   24  ls -lt
+   25  nano main.c
+   26  nano foo.c
+   27  gcc -Wall -c foo.c
+   28  gcc -Wall -c main.c
+   29  nano foo.c
+   30  nano foo.h
+   31  gcc -Wall -c main.c
+   32  nano main.c
+   33  gcc -Wall -c foo.c
+   34  gcc -Wall -c main.c
+   35  nano foo.c
+   36  gcc -Wall -c foo.c
+   37  gcc -Wall -c main.c
+   38  nano foo.c
+   39  gcc -Wall -c foo.c
+   40  gcc -Wall -c main.c
+   41  nano main.c
+   42  gcc -Wall -c main.c
+   43  gcc -o testprogram foo.o main.o
+   44  ./testprogram 
+   45  nano foo.c
+   46  nano main.c
+   47  nano.c
+   48  nano foo.c
+   49  nano foo,c
+   50  nano foo.c
+   51  ./testprogram 
+   52  nano strings.c
+   53  gcc strings.c -o strings.out
+   54  ./strings.out 
+   55  nano strings.c
+   56  gcc strings.c -o strings.out
+   57  ./strings.out 
+   58  nano strings.c
+   59  gcc strings.c -o strings.out
+   60  ./strings.out 
+   61  nano strings.c
+   62  gcc strings.c -o strings.out
+   63  nano strings.c
+   64  gcc strings.c -o strings.out
+   65  ./strings.out 
+   66  nano main.c
+   67  gcc -Wall -c main.c
+   68  gcc -o testprogram foo.o main.o
+   69  ./testprogram 
+   70  nano main.c
+   71  nano arrays.c
+   72  gcc arrays.c -o arrays.out
+   73  ./arrays.out 
+   74  nano arrays.c
+   75  gcc arrays.c -o arrays.out
+   76  ./arrays.out 
+   77  nano arrays.c
+   78  gcc arrays.c -o arrays.out
+   79  ./arrays.out 
+   80  nano arrays.c
+   81  gcc arrays.c -o arrays.out
+   82  ./arrays.out 
+   83  nano arrays.c
+   84  gcc arrays.c -o arrays.out
+   85  ./arrays.out 
+   86  nano arrays.c
+   87  gcc arrays.c -o arrays.out
+   88  ./arrays.out 
+   89  nano arrays.c
+   90  gcc arrays.c -o arrays.out
+   91  ./arrays.out 
+   92  nano arrays.c
+   93  gcc arrays.c -o arrays.out
+   94  ./arrays.out 
+   95  nano arrays.c
+   96  gcc arrays.c -o arrays.out
+   97  nano arrays.c
+   98  gcc arrays.c -o arrays.out
+   99  ./arrays.out 
+  100  nano arrays.c
+  101  gcc arrays.c -o arrays.out
+  102  nano arrays.c
+  103  gcc arrays.c -o arrays.out
+  104  ./arrays.out 
+  105  nano vārdu_statistika.c
+  106  gcc vārdu_statistika.c -o vārdu_statistika.out
+  107  ./vārdu_statistika.out 
+  108  nanao vārdu_statistika.c
+  109  nana vārdu_statistika.c
+  110  nano vārdu_statistika.c
+  111  gcc vārdu_statistika.c -o vārdu_statistika.out
+  112  nano vārdu_statistika.c
+  113  gcc vārdu_statistika.c -o vārdu_statistika.out
+  114  nano vārdu_statistika.c
+  115  gcc vārdu_statistika.c -o vārdu_statistika.out
+  116  ./vārdu_statistika.out 
+  117  nano vārdu_statistika.c
+  118  gcc vārdu_statistika.c -o vārdu_statistika.out
+  119  ./vārdu_statistika.out 
+  120  nano vārdu_statistika.c
+  121  gcc vārdu_statistika.c -o vārdu_statistika.out
+  122  ./vārdu_statistika.out 
+  123  nano vārdu_statistika.c
+  124  gcc vārdu_statistika.c -o vārdu_statistika.out
+  125  ./vārdu_statistika.out 
+  126  nano vārdu_statistika.c
+  127  gcc vārdu_statistika.c -o vārdu_statistika.out
+  128  ./vārdu_statistika.out 
+  129  nano vārdu_statistika.c
+  130  gcc vārdu_statistika.c -o vārdu_statistika.out
+  131  ta la la la
+  132  ./vārdu_statistika.out 
+  133  nano vārdu_statistika.c
+  134  gcc vārdu_statistika.c -o vārdu_statistika.out
+  135  ./vārdu_statistika.out 
+  136  nano vārdu_statistika.c
+  137  gcc vārdu_statistika.c -o vārdu_statistika.out
+  138  ./vārdu_statistika.out 
+  139  nano vārdu_statistika.c
+  140  gcc vārdu_statistika.c -o vārdu_statistika.out
+  141  ./vārdu_statistika.out 
+  142  git clone https://github.com/Yohan0604/RTR105_2023_foreign
+  143  pwd
+  144  ls -lt
+  145  cd RTR105_2023_foreign/
+  146  ls -lt
+  147  mkdir class_12
+  148  ls -lt
+  149  cd class_12
+  150  nano class_12.c
+  151  nano foo.h
+  152  nano foo.c
+  153  nano main.c
+  154  $ gcc -wall -c foo.c
+  155  gcc -wall -c foo.c
+  156  gcc -Wall -c foo.c
+  157  gcc -Wall -c main.c
+  158  gcc -o testprogram foo.o main.o
+  159  ls -lt
+  160  ./testprogram 
+  161  nano foo.h
+  162  nano foo.c
+  163  nano foo.h
+  164  nano main.c
+  165  gcc -Wall -c foo.c
+  166  nano foo.h
+  167  ./testprogram 
+  168  touch foo.h
+  169  touch foo.c
+  170  touch main.c
+  171  nano foo.h
+  172  nano foo.c
+  173  nano arrays.c
+  174  gcc arrays.c
+  175  ./arrays.c
+  176  ls -lt
+  177  ./a.out
+  178  cd..
+  179  cd ..
+  180  history>history_2023_10_24.txt
