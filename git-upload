@@ -1,6 +1,6 @@
 #!/bin/bash
 git add .
-git congig --global user.name Yohan0604
+git config --global user.name Yohan0604
 git config --global user.email Yohan.Rajapaksha@edu.rtu.lv
 git commit -m "class_17"
 git pull
