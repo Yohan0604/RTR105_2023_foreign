@@ -1,0 +1,15 @@
+// Thanks to https://github.com/MartinsSmirnovs/RTR105 example
+
+// firstly, add Clang-Format extension
+// place clang-format executable
+// don't forget to add C/C++ extension
+
+{
+    "clang-format.executable": "${workspaceRoot}/bin/clang-format",
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "xaver.clang-format",
+    "files.associations": {
+        "typeindex": "c",
+        "typeinfo": "c"
+    }
+}
