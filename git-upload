@@ -2,7 +2,7 @@
 git add .
 git config --global user.name Yohan0604
 git config --global user.email Yohan.Rajapaksha@edu.rtu.lv
-git commit -m "class_17"
+git commit -m "test3"
 git pull
 git push origin main
 
