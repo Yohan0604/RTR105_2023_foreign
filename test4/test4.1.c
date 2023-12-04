@@ -18,7 +18,7 @@ int main() {
     p_fact=1;
     fact = 1;
     n_fact=1;
-    //for(i=1,fact=1;;)
+    
     if(type=='c')
     {
         if(n<4){
