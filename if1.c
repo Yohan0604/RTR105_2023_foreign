@@ -23,12 +23,6 @@ int main()
             b = c;
             c = swap;
         }
-        if (a > b) 
-        {
-            char swap = a;
-            a = b;
-            b = swap;
-        }
         printf("The sorted sequence is: %c %c %c\n", a, b, c); 
     }
     else if (order == 'R' || order == 'r') 
@@ -46,12 +40,7 @@ int main()
             b = c;
             c = swap;
         }
-        if (a < b) 
-        {
-            char swap = a; 
-            a = b;
-            b = swap;
-        }
+     
         printf("The sorted sequence is: %c %c %c\n", a, b, c); 
     }
     
