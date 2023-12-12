@@ -8,7 +8,7 @@ int main()
     scanf("%c %c %c", &a, &b, &c);
     printf("Enter A for alphabet order or R for reverse order:");
     scanf(" %c", &order); 
-    if (order == 'A' || order == 'a') 
+   
     {
         
         if (a > b) 
@@ -29,31 +29,14 @@ int main()
             a=b;
             b= swap;
         }
-        printf("The sorted sequence is: %c %c %c\n", a, b, c); 
+if (order == 'A' || order == 'a')
+     {   printf("The sorted sequence is: %c %c %c\n", a, b, c); 
     }
-    else if (order == 'R' || order == 'r') 
+else if (order == 'R' || order == 'r') 
     {
-       
-        if (a < b) 
-        {
-            char swap = a;
-            a = b;
-            b = swap;
-        }
-        if (b < c) 
-        {
-            char swap = b;
-            b = c;
-            c = swap;
-        } 
-        {
-            char swap = a;
-            a = b;
-            b = swap;
-        }
-        printf("The sorted sequence is: %c %c %c\n", a, b, c); 
+        printf("The sorted sequence is: %c %c %c\n", c,b,a); 
     }
-    
- 
+  
+} 
     return 0;
 }
