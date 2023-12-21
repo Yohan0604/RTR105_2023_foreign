@@ -32,7 +32,7 @@ printf("%3d! = %lld\n",i-1,fact);
 }
 else
 {
-printf("selected data type is not wrong\n");
+printf("selected data type is wrong\n");
 return 0;
 }
 }
