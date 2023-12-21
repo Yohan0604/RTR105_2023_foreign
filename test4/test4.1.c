@@ -19,7 +19,7 @@ n_fact=1;
 
 if(type=='c')
 {
- if(n<4)
+ if(fact/i)
 {
  while(i<=n && p_fact==n_fact)
 {
@@ -38,7 +38,7 @@ return 0;
 }
 else if(type=='i')
 {
-if(n<13)
+if(fact/i)
 {
 while(i<=n && p_fact==n_fact)
 {
