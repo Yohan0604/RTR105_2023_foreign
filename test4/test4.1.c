@@ -28,7 +28,7 @@ fact = fact * i;
 n_fact = fact/i;
 i+=1;
 }
-printf("%3d! = %lld\n",i-1,fact);
+printf("%3d! = %c\n",i-1,fact);
 }
 else
 {
@@ -47,7 +47,7 @@ fact = fact * i;
 n_fact = fact/i;
 i+=1;
 }
-printf("%3d! = %lld\n",i-1,fact);
+printf("%3d! = %ld\n",i-1,fact);
 }
 else
 {
