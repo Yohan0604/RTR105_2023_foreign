@@ -7,14 +7,15 @@ void main()
     long long longNum = 1;
     int intNum = 1;
     char choice;
+
     printf("Please Enter Decimal Number: ");
-    scanf("%lld99", &input_num);
-    printf("Please Enter first letter of Data type (c) (i) (l)\n: ");
-    scanf(" %c99", &choice);
+    scanf("%lld", &input_num);
+    printf("Please Enter first letter of Data type Char(c) Int(i) Long(l)\n: ");
+    scanf(" %c", &choice);
     if(choice == 'c')
     {
         char reference = 1;
-        for(int counter = 1;counter < input_num; counter++)
+        for(int counter = 1; counter < input_num; counter++)
         {
         
             charNum *= (counter + 1);
